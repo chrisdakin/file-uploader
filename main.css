@@ -1,3 +1,7 @@
+ul {
+    margin-bottom: 0px;
+}
+
 .container {
     display: flex;
     align-content: center;
